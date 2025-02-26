@@ -1,2 +1,2 @@
-# Task-2
+# PRODIGY_WD_02
 Stop Watch
